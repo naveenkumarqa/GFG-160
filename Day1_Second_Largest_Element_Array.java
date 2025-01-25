@@ -1,4 +1,6 @@
 /* 
+🎯 Day 1 of #GfG160 Challenge 
+
 ✅ Today's Problem: Second Largest Element in an Array  
 Given an array of positive integers arr[] of size n, the task is to find the second largest distinct element in the array.  
 
