@@ -9,7 +9,7 @@ This repository contains my solutions to the **GeeksforGeeks 160 Days Challenge*
 ### Day 1  
 **Problem**: Second Largest Element - Array  
 - **Description**: Find the second largest distinct element in an array of integers.  
-- **Solution**: [SecondLargestElement.java](SecondLargestElement.java)  
+- **Solution**: [SecondLargestElement.java](https://github.com/naveenkumarqa/GFG-160/blob/main/Day1_Second_Largest_Element_Array.java)  
 
 ---
 ## 🛠️ How It Works  
